@@ -230,7 +230,17 @@ Donations are **greatly appreciated!**
 
 ReactJS version of the original AdminLTE dashboard - https://github.com/almasaeed2010/AdminLTE
 
-####Instructions to run
+
+### UPDATE:
+
+[Widgets created in ReactJS](./reactjs-adminlte/public/widgets)
+
+![](./reactjs-adminlte/screenshots/widgets.png)
+
+More stuff coming soon.
+
+
+#### Instructions to run
 
 - Fork or clone this repo
 - Install nodejs and NPM
@@ -240,16 +250,9 @@ ReactJS version of the original AdminLTE dashboard - https://github.com/almasaee
 
 This is still a work in progress and will get better over time. Will try and think of more essential features.
 
-####Upcoming stuff
+#### Upcoming stuff
 
 - Re-usable chart components
 - Command line options to choose between client-side rendering and server-side rendering in ReactJS
 - Including D3 / C3 charts 
 
-###UPDATE:
-
-[Widgets created in ReactJS](./reactjs-adminlte/public/widgets)
-
-![](./reactjs-adminlte/screenshots/widgets.png)
-
-More stuff coming soon.
